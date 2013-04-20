@@ -44,7 +44,8 @@ a {
   text-decoration: none;
 }
 
-a:hover {
+a:hover,
+a:focus {
   color: #005580;
   text-decoration: underline;
 }
